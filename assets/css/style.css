@@ -1,5 +1,5 @@
 
-    /* contact page */
+    /* contact area of page */
 
 #contact-form ul {
   margin-bottom: 20px;
@@ -20,14 +20,14 @@ textarea {
 input[type=text],
 input[type=email],
 textarea {
-  height: 35px;
+  height: 50px;
   padding: 0 10px;
   font-size: 14px;
   border: 1px solid #dddddd;
 }
 
 textarea {
-  height: 200px;
+  height: 50px;
 }
 
 input[type=submit] {
